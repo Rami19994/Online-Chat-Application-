@@ -1,0 +1,15 @@
+1-Use the cd command followed by the path of the directory you want to navigate to.
+
+2- USE COMMEND TO Compile files: 
+javac ChatServer.java
+javac ChatClient.java
+
+
+3-Run the server USE COMMEND:
+java ChatServer
+
+
+4-RUN CLINT USE COMMEND:
+java ChatClient
+
+
